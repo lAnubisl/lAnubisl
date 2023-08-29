@@ -1,3 +1,4 @@
+![](http://byalexblog.net/images/github_header.jpg)
 
 - 15+ years of experience building systems (.net, python) from scratch and diving into an existing codebase.
 - 10+ years experience in leading development teams of up to 10 developers.
