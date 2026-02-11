@@ -1,6 +1,6 @@
 ![](http://byalexblog.net/images/github_header.jpg)
 
-:white_check_mark: 15+ years of experience building systems (.net, python) from scratch and diving into an existing codebase.
+:white_check_mark: 18+ years of experience building systems (.net, python) from scratch and diving into an existing codebase.
 
 :white_check_mark: 10+ years experience in leading development teams of up to 10 developers.
 
