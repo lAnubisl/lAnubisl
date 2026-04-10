@@ -26,4 +26,4 @@
 
 :white_check_mark: Currently, I’m working as a Principal Software Engineer / Solutions Architect.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lanubisl?border=0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/alexander_panfilenok?border=0)
